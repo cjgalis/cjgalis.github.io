@@ -1,0 +1,11 @@
+h1 {
+  font-size: 100px
+}
+
+#logo {
+  float: left;
+}
+
+#navigation {
+  float: right;
+}
