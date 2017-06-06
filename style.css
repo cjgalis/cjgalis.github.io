@@ -1,10 +1,12 @@
 h1 {
   font-family: 'Roboto Slab', serif;
-  font-size: 50px
+  font-size: 50px;
+  font-weight: 500;
 }
 
 p {
  font-family: 'Roboto', sans-serif;
+ font-size: 18px;
 }  
 
 #logo {
