@@ -1,6 +1,11 @@
 h1 {
-  font-size: 100px
+  font-family: 'Roboto Slab', serif;
+  font-size: 50px
 }
+
+p {
+ font-family: 'Roboto', sans-serif;
+}  
 
 #logo {
   float: left;
@@ -9,3 +14,7 @@ h1 {
 #navigation {
   float: right;
 }
+
+/* font-family: 'Roboto Slab', serif;
+font-family: 'Roboto', sans-serif; */
+
